@@ -1,0 +1,31 @@
+{
+  "id": 5,
+  "name": "Blue Board Cuts",
+  "description": "We thought just 'jeans' were too conventional. So we cut of the bottoms and marked up the price.",
+  "status": "AVAILABLE",
+  "price": 2000,
+  "photo": {
+    "id": "5e2a13f0689b2835ae71d1a5",
+    "filename": "270-camo-sunset.jpg",
+    "originalFilename": "270-camo-sunset.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "public_id": "sick-fits-keystone/5e2a13f0689b2835ae71d1a5",
+      "version": 1579815920,
+      "signature": "a430b2d35f6a03dc562f6f56a474deb6810e393f",
+      "width": 960,
+      "height": 640,
+      "format": "jpg",
+      "resource_type": "image",
+      "tags": [],
+      "bytes": 45455,
+      "type": "upload",
+      "etag": "aebe8e9cc98ee4ad71682f19af85745b",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/wesbos/image/upload/v1579815920/sick-fits-keystone/5e2a13f0689b2835ae71d1a5.jpg",
+      "secure_url": "https://res.cloudinary.com/wesbos/image/upload/v1579815920/sick-fits-keystone/5e2a13f0689b2835ae71d1a5.jpg",
+      "original_filename": "file"
+    }
+  }
+}

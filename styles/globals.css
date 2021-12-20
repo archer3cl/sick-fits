@@ -19,7 +19,7 @@
   }
   nav.navbar ul li a:before {
     content: '';
-    @apply w-[2px] h-full bg-gray-400 absolute left-0 -skew-x-[20deg];
+    @apply w-[2px] h-full bg-gray-300 absolute left-0 -skew-x-[20deg];
   }
   nav.navbar ul li a:after {
     content: '';
@@ -27,5 +27,17 @@
   }
   nav.navbar ul li a:hover:after {
     width: calc(100% - 85px);
+  }
+
+  .pagination-item {
+    @apply px-8 py-4 border-r border-gray-300;
+  }
+
+  .pagination-item:last-child {
+    @apply border-r-0;
+  }
+
+  a.pagination-item[aria-disabled='true'] {
+    @apply text-gray-300 pointer-events-none;
   }
 }
